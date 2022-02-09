@@ -10,7 +10,7 @@ const Navbar = () => {
                 <div className="nav-container">
                     <img src={bag} alt="bag" />
                     <div className="amount-container">
-                        <p className="total-amount">5</p>
+                        <p className="total-amount">0</p>
                     </div>
                 </div>
             </div>
